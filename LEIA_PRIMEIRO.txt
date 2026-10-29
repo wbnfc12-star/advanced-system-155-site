@@ -3,7 +3,7 @@ ADVANCED SYSTEM 155 — SITE ESTÁTICO
 Arquivos: index.html, style.css, privacidade.html, termos.html.
 
 IMPORTANTE ANTES DE PUBLICAR:
-1. Substituir o aviso PENDENTE DE CONFIGURAÇÃO por um canal de contato real.
+1. Canal de contato incluído: wesllenfc12@gmail.com. Atualize este e-mail quando necessário.
 2. Completar e revisar a política de privacidade e os termos de uso com as práticas reais do aplicativo.
 3. Confirmar o nome comercial e as condições da oferta.
 4. Conferir requisitos do Mercado Pago para aceitação do site.
