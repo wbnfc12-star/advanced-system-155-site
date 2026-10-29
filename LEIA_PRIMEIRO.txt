@@ -1,0 +1,18 @@
+ADVANCED SYSTEM 155 — SITE ESTÁTICO
+
+Arquivos: index.html, style.css, privacidade.html, termos.html.
+
+IMPORTANTE ANTES DE PUBLICAR:
+1. Substituir o aviso PENDENTE DE CONFIGURAÇÃO por um canal de contato real.
+2. Completar e revisar a política de privacidade e os termos de uso com as práticas reais do aplicativo.
+3. Confirmar o nome comercial e as condições da oferta.
+4. Conferir requisitos do Mercado Pago para aceitação do site.
+5. Não publicar link para APK antes de ter distribuição e segurança prontas.
+
+PUBLICAR NO GITHUB PAGES:
+- Crie um repositório público específico para o site (ex.: advanced-system-155-site). NÃO use o repositório do backend.
+- Envie apenas os quatro arquivos HTML/CSS; o LEIA_PRIMEIRO.txt é opcional.
+- Settings > Pages > Build and deployment > Deploy from a branch > main > / (root) > Save.
+- Aguarde o endereço fornecido pelo GitHub Pages. O site precisa estar público e acessível para o Mercado Pago avaliar.
+
+Não inclua segredos do Firebase, tokens do Mercado Pago nem código privado no repositório público.
