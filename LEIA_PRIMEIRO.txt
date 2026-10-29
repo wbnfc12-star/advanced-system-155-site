@@ -1,9 +1,10 @@
-ADVANCED SYSTEM 155 — SITE PREMIUM
+ADVANCED SYSTEM — SITE COMPLETO PARA GITHUB PAGES
 
-1. Extraia este ZIP.
-2. Envie index.html, style.css, privacidade.html, termos.html e a pasta assets/ para a raiz do repositorio GitHub Pages, preservando a estrutura.
-3. O botao de download esta DESATIVADO propositalmente enquanto o APK esta em testes. Nenhum APK foi incluido.
-4. As capturas em assets/ sao as imagens reais fornecidas pelo responsavel.
-5. As paginas de privacidade e termos ainda sao MODELOS INCOMPLETOS. Revise e finalize antes do lancamento publico.
-6. Confira o site no celular e computador depois da publicacao.
-7. A pagina de assinatura informa renovacao manual, conforme o site anterior. Confirme essa regra no app antes do lancamento.
+1. Abra este ZIP e EXTRAIA os arquivos.
+2. No repositório GitHub Pages, envie TODOS os arquivos e a pasta assets na raiz. Não envie apenas o ZIP, pois o GitHub Pages não extrai arquivos ZIP automaticamente.
+3. A estrutura deve ser: index.html, style.css, privacidade.html, termos.html, assets/logo-oficial.png e assets/tela-1.jpg até tela-6.jpg.
+4. Substitua os arquivos antigos com os mesmos nomes e confirme o commit.
+5. Aguarde o GitHub Pages publicar e pressione Ctrl+F5 para atualizar sem cache.
+6. O botão de download do APK permanece desativado, sem link.
+7. O ícone oficial foi RECORTADO da captura de tela enviada; para maior nitidez, substitua assets/logo-oficial.png pelo arquivo original do ícone, mantendo o mesmo nome.
+8. Privacidade e Termos ainda precisam de revisão jurídica e operacional antes do lançamento.
