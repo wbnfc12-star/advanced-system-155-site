@@ -1,10 +1,5 @@
-ADVANCED SYSTEM — SITE COMPLETO PARA GITHUB PAGES
+SITE BLACK FUTURISTA - IMAGENS PARA DIVULGACAO
 
-1. Abra este ZIP e EXTRAIA os arquivos.
-2. No repositório GitHub Pages, envie TODOS os arquivos e a pasta assets na raiz. Não envie apenas o ZIP, pois o GitHub Pages não extrai arquivos ZIP automaticamente.
-3. A estrutura deve ser: index.html, style.css, privacidade.html, termos.html, assets/logo-oficial.png e assets/tela-1.jpg até tela-6.jpg.
-4. Substitua os arquivos antigos com os mesmos nomes e confirme o commit.
-5. Aguarde o GitHub Pages publicar e pressione Ctrl+F5 para atualizar sem cache.
-6. O botão de download do APK permanece desativado, sem link.
-7. O ícone oficial foi RECORTADO da captura de tela enviada; para maior nitidez, substitua assets/logo-oficial.png pelo arquivo original do ícone, mantendo o mesmo nome.
-8. Privacidade e Termos ainda precisam de revisão jurídica e operacional antes do lançamento.
+Envie todos os arquivos e a pasta assets ao repositorio GitHub Pages.
+As capturas foram adaptadas para demonstracao: nomes anonimizados, conteudo promocional removido e localizacao ocultada.
+O download do APK continua indisponivel.
