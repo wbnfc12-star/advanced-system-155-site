@@ -1,5 +1,9 @@
-SITE BLACK FUTURISTA - IMAGENS PARA DIVULGACAO
+ADVANCED SYSTEM — SITE BLACK FUTURISTA
+Pacote completo para publicar no GitHub Pages.
 
-Envie todos os arquivos e a pasta assets ao repositorio GitHub Pages.
-As capturas foram adaptadas para demonstracao: nomes anonimizados, conteudo promocional removido e localizacao ocultada.
-O download do APK continua indisponivel.
+Envie/substitua todos os arquivos deste pacote na raiz do repositório publicado e mantenha a pasta assets inteira.
+Confirme o commit e aguarde a implantação do GitHub Pages.
+
+As sete capturas foram atualizadas com as imagens fornecidas.
+Nomes identificáveis, mapa detalhado, notificações promocionais e imagem pessoal da galeria foram ocultados ou substituídos por conteúdo demonstrativo.
+O APK não está disponível para download enquanto permanecer em testes.
